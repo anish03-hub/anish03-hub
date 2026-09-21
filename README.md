@@ -1,265 +1,283 @@
 <div align="center">
 
-<!-- New: animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:6A5ACD&height=200&section=header&text=Hi%20there,%20I'm%20Tej%20Narayan%20Sah&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%7C%20Cloud%20Computing&descAlignY=55&descSize=18" alt="Header Banner" width="100%"/>
+<!-- Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Anish%20Kumar%20Sah%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs%20%7C%20Backend%20%26%20Full-Stack%20Development&descAlignY=58&descSize=16" alt="Header Banner" width="100%"/>
 
-<!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C4CC&center=true&vCenter=true&width=1100&height=50&lines=Computer+Engineering+Student+%40+Symbiosis+Institute+of+Technology;Full-Stack+Developer+%7C+AI%2FML+%7C+Cloud+Computing;Building+things+that+solve+real-world+problems+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Animated Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=1100&height=50&lines=Java+Developer+%7C+Spring+Boot+%26+REST+APIs;B.Tech+Computer+Science+%40+Symbiosis+Institute+of+Technology;Designing+Scalable+Backend+Systems+%26+Relational+Databases;Bridging+Enterprise+Backends+with+Intelligent+AI%2FML+Workflows+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-<!--
-  GitHub username: Tej-Sah
-  LinkedIn: tej-narayan-sah-9552142aa
--->
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-narayan-sah-9552142aa/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezzsha182@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tej-Sah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishsah)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah42515@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish03-hub)
 
-<img src="https://img.shields.io/github/followers/Tej-Sah?label=Followers&style=social" alt="Followers"/>
-<img src="https://komarev.com/ghpvc/?username=Tej-Sah&label=Profile%20Views&color=00C4CC&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/anish03-hub?label=Followers&style=flat-square&color=1f6feb" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=anish03-hub&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🎓 **4th-year Computer Engineering student** at **Symbiosis Institute of Technology, Pune**.
-- 💻 I am interested in **Full-Stack Development**, **Frontend Development**, **AI/ML**, and **Cloud Computing**.
-- 🤖 I enjoy building **AI/ML-based systems** that solve practical real-world problems.
-- 🌐 I enjoy developing **web applications** and turning ideas into complete working systems.
-- ⚙️ I have worked on projects involving **Software Development, IoT, Machine Learning, Web Development, and Databases**.
-- 🌱 Currently improving my skills in **web development, machine learning, and cloud technologies**.
-- 🚀 I like building projects from an idea into a complete working system.
-- 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tej-narayan-sah-9552142aa/)
-- 📫 Reach me at **tezzsha182@gmail.com**
+- 🎓 **B.Tech in Computer Science Engineering (2023 – 2027)** at **Symbiosis Institute of Technology, Pune**.
+- ☕ Passionate **Java Backend Developer** specializing in building robust, production-ready REST APIs using **Spring Boot** and **Spring Data JPA**.
+- 🗄️ Experienced in modeling normalized relational databases with **PostgreSQL**, **MySQL**, and **SQLite**, with automated schema migrations and transactional integrity.
+- 🔐 Strong focus on API security, implementing **JWT-based authentication**, **bcrypt** password hashing, and role-based access control.
+- 🤖 Experienced in bridging enterprise Java backends with **AI/ML microservices** (FastAPI, scikit-learn) and managing datasets/models with **Git LFS**.
+- 📱 Proficient in cross-platform mobile and web application development using **React**, **React Native (Expo)**, **TypeScript**, and **Node.js/Express**.
+- 🧪 Dedicated to automated testing and reliable CI/CD practices (**Maven automated test suites**, 13/13 passing API test workflows).
 
-```python
-class Tej:
-    def __init__(self):
-        self.role = "Full-Stack Developer"
-        self.focus = ["Full-Stack Development", "AI/ML", "Cloud Computing"]
-        self.languages = ["C", "C++", "Java", "Python", "HTML", "SQL"]
-        self.currently_building = "Real-world software and AI/ML projects"
+<br>
 
-    def collaborate(self, you):
-        return "let's build something 🚀" if you.is_curious else "let's talk anyway"
+```java
+@RestController
+@RequestMapping("/api/v1/developer")
+public class AnishKumarSah {
+
+    private final String role        = "Java Developer | Backend & Full-Stack";
+    private final String university  = "Symbiosis Institute of Technology, Pune";
+    private final String degree      = "B.Tech Computer Science Engineering (2023 - 2027)";
+    private final String[] coreStack = {"Java 8+", "Spring Boot", "Spring Data JPA", "PostgreSQL", "REST APIs", "JWT"};
+
+    @GetMapping("/collaborate")
+    public ResponseEntity<String> collaborate(@RequestParam boolean isBuildingCoolStuff) {
+        if (isBuildingCoolStuff) {
+            return ResponseEntity.ok("Let's build scalable systems together! 🚀");
+        }
+        return ResponseEntity.ok("Always open to discuss technology, backend architectures & AI! ☕");
+    }
+}
 ```
 
-### 🎯 Currently
+---
+
+### 🎯 Current Focus
 
 <table>
 <tr>
-<td>
+<td width="33%" valign="top">
 
-**🔭 Working on**
-
-AI/ML and full-stack projects that solve real-world problems.
-
-</td>
-<td>
-
-**🌱 Learning**
-
-Machine Learning, Full-Stack Development & Cloud Computing.
+**🔭 Building & Architecting**  
+Scalable enterprise backend services in **Spring Boot** with intelligent demand forecasting & microservice communication.
 
 </td>
-<td>
+<td width="33%" valign="top">
 
-**🤝 Open to**
+**🌱 Deep Diving Into**  
+Advanced Spring Security, Distributed Microservices, Docker containerization, and High-throughput DB tuning.
 
-Full-stack development, AI/ML and collaborative project opportunities.
+</td>
+<td width="33%" valign="top">
+
+**🤝 Open To**  
+Backend Developer / Java Software Engineering internships, full-stack collaborations, and open-source contributions.
 
 </td>
 </tr>
 </table>
 
-### 🛠️ Tech Stack
+---
 
-**Languages**
+### 🛠️ Technical Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+**Languages**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Web Development**
+<br>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Full--Stack_Development-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Frontend_Development-1572B6?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</p>
+**Backend & Frameworks**  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
 
-**Databases & Tools**
+<br>
 
-<p align="left">
+**Databases & Storage**  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br>
+
+**Core Competencies & Security**  
+<img src="https://img.shields.io/badge/OOP-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-107C41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automated_Testing-E32A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-555555?style=for-the-badge"/>
+
+<br>
+
+**Frontend & Mobile**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br>
+
+**Developer Tools & CI/CD**  
+<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git_LFS-F05033?style=for-the-badge&logo=gitlfs&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </p>
 
-**Data Science & ML**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive_Maintenance-00A98F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive_Analytics-007ACC?style=for-the-badge"/>
-</p>
-
-**IoT**
-
-<p align="left">
-<img src="https://img.shields.io/badge/IoT-0A97B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Solar_Energy-FFB000?style=for-the-badge"/>
-</p>
-
-**Cloud & DevOps**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### 📈 Skill Proficiency
-
-```
-Python                 ████████████████░░░░  80%
-C / C++                ███████████████░░░░░  75%
-Java                   ███████████████░░░░░  75%
-HTML / Web Development ████████████████░░░░  80%
-SQL / Databases        ███████████████░░░░░  75%
-Machine Learning       █████████████░░░░░░░  65%
-Full-Stack Development █████████████░░░░░░░  65%
-Cloud Computing        ██████████░░░░░░░░░░  50%
-IoT                    ████████████░░░░░░░░  60%
-```
+---
 
 ### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4>📚 Library Management System</h4>
-<em>Academic Project · 1st Year</em>
-<p>A Python-based Library Management System developed during my first year. The project focuses on managing library operations and organizing book and library records efficiently.</p>
-<b>Stack:</b> Python
+
+<h4>🏥 <a href="https://github.com/anish03-hub/STOCKUP-AI-FINAL">StockUp AI</a></h4>
+<em>AI-Powered Medicine Inventory Management & Demand Forecasting</em>
+<p>Full-stack hospital medicine inventory and decision-support system. Features medicine CRUD, CSV bulk imports, automated expiry management, and safety-stock calculation. Communicates with a Python/FastAPI service deploying a scikit-learn Random Forest model to predict demand spikes and prevent stock-outs.</p>
+
+- **Backend:** Java, Spring Boot, Spring Data JPA, PostgreSQL, REST APIs, JWT Auth
+- **AI/ML Service:** Python, FastAPI, scikit-learn (Random Forest)
+- **Frontend & Tools:** React, Maven, Git LFS
+<br>
+<a href="https://github.com/anish03-hub/STOCKUP-AI-FINAL"><b>View Repository ➔</b></a>
+
 </td>
 <td width="50%" valign="top">
-<h4>☀️ Solar Tracking & Charging System</h4>
-<em>IoT Project · 2nd Year</em>
-<p>An IoT-based solar charging system where the solar panel automatically moves according to the movement of the sun. The panel adjusts its position according to sunlight direction to improve solar energy collection.</p>
-<b>Focus:</b> IoT · Solar Energy · Automation · Solar Tracking
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>💼 Skill-Based Freelancer Hiring Platform</h4>
-<em>Java Project · 2nd Year</em>
-<p>A Java-based platform designed to connect freelancers with projects according to their skills. The system manages users, projects, skills, proposals, and related information.</p>
-<b>Stack:</b> Java · JavaFX · MySQL · JDBC
-</td>
-<td width="50%" valign="top">
-<h4>⚙️ Predictive Maintenance System</h4>
-<em>Machine Learning & Web Development · 2nd Year</em>
-<p>An ML-based predictive maintenance system designed to predict potential damage or failure in CNC machines using historical machine-related data. The system also sends email notifications when a potential maintenance issue is detected.</p>
-<b>Focus:</b> Machine Learning · Predictive Maintenance · Web Development · Email Alerts
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4>🎯 AI-Based Student Placement Prediction & Career Recommendation System</h4>
-<em>Hackathon Project · Unstop</em>
-<p>An AI-based system designed to help students understand whether they are placement-ready and identify the skills they need to improve. The system provides placement predictions along with personalized career and skill recommendations.</p>
-<b>Focus:</b> AI/ML · Placement Prediction · Career Recommendation · Student Assistance
-</td>
-<td width="50%" valign="top">
-<h4>🤖 AI Student Chatbot</h4>
-<em>University Assistance System</em>
-<p>An AI-powered chatbot designed to help university students get answers to frequently asked questions related to the university. Students can ask questions about timetables, placements, and other university-related information.</p>
-<b>Focus:</b> AI · Chatbot · Student Assistance · FAQ
+
+<h4>🌾 Grain Ledger Pro</h4>
+<em>Mobile-First Grain Business Management & Digital Ledger</em>
+<p>Cross-platform mobile application engineered to replace error-prone paper ledgers for a family grain-trading enterprise. Features normalized schema handling parties, stock inventory, purchases, sales, and payments with transactional integrity to prevent overselling or balance inconsistencies.</p>
+
+- **Mobile:** React Native, Expo, TypeScript
+- **Backend:** Node.js, Express.js, Sequelize ORM, SQLite / PostgreSQL-ready
+- **Security & Quality:** JWT, bcrypt password hashing, 13/13 passing automated E2E API tests
+<br>
+<em>Production Ready & Architected for High Reliability</em>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
-<h4>✨ More Projects Coming Soon</h4>
-<p>Always learning, experimenting, and building new projects. Check my repositories for the latest work and upcoming projects.</p>
-<a href="https://github.com/Tej-Sah?tab=repositories">→ Browse all repositories</a>
+
+<h4>🤖 <a href="https://github.com/anish03-hub/college-student-ai-chatbot">AI Chatbot for College Students</a></h4>
+<em>Campus Information Assistant with Natural Language Processing</em>
+<p>An intelligent NLP-powered chatbot in Python built to interpret natural-language student queries regarding university schedules, syllabus, FAQs, and exam timetables, reducing repetitive manual administrative workload.</p>
+
+- **Tech Stack:** Python, Natural Language Processing (NLP), NLTK, Pattern Matching
+<br>
+<a href="https://github.com/anish03-hub/college-student-ai-chatbot"><b>View Repository ➔</b></a>
+
 </td>
 <td width="50%" valign="top">
-<h4>🚀 Always Building</h4>
-<p>Exploring new technologies and turning ideas into practical solutions through software development, AI/ML, IoT and web technologies.</p>
+
+<h4>⚙️ <a href="https://github.com/anish03-hub/predictive-maintenance-system">Predictive Maintenance System</a></h4>
+<em>Industrial Machine Health & Failure Prediction Platform</em>
+<p>Machine-learning driven system designed to predict failure points in industrial machinery using sensor and historical machine data, complete with automated threshold alerts for predictive maintenance workflows.</p>
+
+- **Tech Stack:** Python, Machine Learning, Scikit-learn, Web Dashboard
+<br>
+<a href="https://github.com/anish03-hub/predictive-maintenance-system"><b>View Repository ➔</b></a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h4>🥗 <a href="https://github.com/anish03-hub/Nivala">Nivala Web App</a></h4>
+<em>Digital Meal & Food Recipe Discovery Platform</em>
+<p>Interactive web application dedicated to meal planning and recipe exploration with smooth UI/UX and responsive layout design.</p>
+
+- **Tech Stack:** HTML5, CSS3, Modern JavaScript
+- **Deployment:** Live on Vercel
+<br>
+<a href="https://nivala-three.vercel.app"><b>Live Demo ➔</b></a> &nbsp;|&nbsp; <a href="https://github.com/anish03-hub/Nivala"><b>View Repository ➔</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>💼 <a href="https://github.com/anish03-hub/Employee-TDS-Management-System-Tax-Calculation-Employee-Record-Management">Employee TDS & Payroll System</a></h4>
+<em>Tax Deduction & Corporate Employee Record Management</em>
+<p>System developed for accurate tax calculation, salary bracket breakdown, and structured record storage for corporate employee management.</p>
+
+- **Tech Stack:** Core Java / SQL, Database Management
+<br>
+<a href="https://github.com/anish03-hub/Employee-TDS-Management-System-Tax-Calculation-Employee-Record-Management"><b>View Repository ➔</b></a>
+
 </td>
 </tr>
 </table>
 
-### 🏆 Achievements
+---
 
-- 🎯 Participated in an Unstop-organized Hackathon
-- 🤖 Developed an AI-Based Student Placement Prediction & Career Recommendation System
-- 💻 Built multiple academic projects across Web Development, AI/ML, IoT and Software Development
-
-### 💡 What I Like Building
-
-🌐 Full-Stack Web Applications · 🤖 AI & Machine Learning Applications · ☁️ Cloud-Based Solutions · 📊 Data-Driven Systems · ⚙️ Automation & Predictive Systems · 🔌 IoT-Based Systems · 💡 Real-World Problem Solving
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Tej-Sah&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tej-Sah&layout=compact&locale=en&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-<img height="165" src="https://streak-stats.demolab.com?user=Tej-Sah&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-### 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tej-Sah&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
-### 🏅 Trophies (new)
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tej-Sah&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tej-Sah/Tej-Sah/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+### 📊 GitHub Statistics & Insights
 
 <div align="center">
 
-### 💬 Quote I Build By
+<p align="center">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=anish03-hub&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Anish's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anish03-hub&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-*"The best way to learn is to build."*
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=anish03-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-Thanks for stopping by — let's build something worth deploying. 🚀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish03-hub&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anish03-hub&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+</div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anish03-hub/anish03-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+I am always interested in discussing software engineering, backend architectures, internships, and collaborative opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anish%20Kumar%20Sah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishsah)
+[![Email](https://img.shields.io/badge/Email-sah42515%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sah42515@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-anish03--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish03-hub)
 
 <br>
 
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tej-narayan-sah-9552142aa/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tezzsha182@gmail.com)
-
-<!-- New: animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C4CC&height=100&section=footer" alt="Footer Banner" width="100%"/>
+<!-- Footer Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="Footer Banner" width="100%"/>
 
 </div>
