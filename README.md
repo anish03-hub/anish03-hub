@@ -3,7 +3,7 @@
 <!-- Waving Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Anish%20Kumar%20Sah%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs%20%7C%20Backend%20%26%20Full-Stack%20Development&descAlignY=58&descSize=16" alt="Header Banner" width="100%"/>
 
-<!-- Animated Typing Intro -->
+<!-- Animated Typing Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=1100&height=50&lines=Java+Developer+%7C+Spring+Boot+%26+REST+APIs;B.Tech+Computer+Science+%40+Symbiosis+Institute+of+Technology;Designing+Scalable+Backend+Systems+%26+Relational+Databases;Bridging+Enterprise+Backends+with+Intelligent+AI%2FML+Workflows+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
@@ -16,6 +16,17 @@
 
 <img src="https://img.shields.io/github/followers/anish03-hub?label=Followers&style=flat-square&color=1f6feb" alt="Followers"/>
 <img src="https://komarev.com/ghpvc/?username=anish03-hub&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+---
+
+### ⚡ Interactive Developer Terminal
+
+<div align="center">
+
+<!-- Animated Interactive Developer Terminal -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3800&pause=1000&color=38BDF8&background=0D1117&center=false&vCenter=true&width=860&height=125&lines=%24+whoami;%3E+Anish+Kumar+Sah+%7C+Java+Backend+%26+Full-Stack+Engineer;%24+cat+core_stack.json;%3E+%7B%22backend%22%3A+%5B%22Java+21%22%2C+%22Spring+Boot+3%22%2C+%22PostgreSQL%22%2C+%22REST+APIs%22%2C+%22FastAPI%22%5D%7D;%24+system_status;%3E+%E2%9C%85+Actively+architecting+scalable+enterprise+systems+%26+open+to+opportunities!" alt="Terminal Card"/>
 
 </div>
 
